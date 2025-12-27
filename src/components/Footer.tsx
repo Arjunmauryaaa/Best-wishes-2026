@@ -52,7 +52,7 @@ const Footer = () => {
           transition={{ delay: 0.3 }}
         >
           <p className="text-muted-foreground text-sm">
-            Made with <Heart className="w-4 h-4 text-rose inline-block mx-1" fill="currentColor" /> for everyone special
+            Made By Arjun Maurya
           </p>
           <p className="text-muted-foreground/60 text-xs">
             ✨ May your dreams take flight ✨
